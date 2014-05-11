@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-	background: #1a2630;
+	background: #ffffff;
 	color: #fff;
 	font-family: 'Roboto Slab', serif;
 	font-size: 16px;
@@ -22,11 +22,11 @@ a {
 /* General styles
 -------------------------------------------------*/
 
-.vegas-background { opacity: .6; }
-.vegas-overlay { opacity: .6; }
+.vegas-background { opacity: 1; }
+.vegas-overlay { opacity: 0; }
 
 #preloader {
-	background-color: #1a2630;
+	background-color: #ffffff;
 	bottom: 0;
 	left: 0;
 	position: fixed;
